@@ -1,4 +1,4 @@
-# amazon-homepage-frontend
+# git demo
 this is my first git repository.
 <br>
 author-Nani Mothadaka
