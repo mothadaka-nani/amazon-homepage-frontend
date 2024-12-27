@@ -1,4 +1,4 @@
-# git demo
+# git demo a
 this is my first git repository.
 <br>
-author-Nani Mothadaka
+author-Mothadaka Nani
